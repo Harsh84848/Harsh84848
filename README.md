@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Harsh Sangwan
 
 # 💫 About Me
-🚀 Computer Science Student  <br>💻 Passionate about Software Development & AI  <br>📊 Exploring Data Analytics & Machine Learning  <br>⚡ Building projects with Python & Web Technologies  <br>🤝 Open to collaborations and opportunities
+🚀 Computer Science Student  <br>💻 Passionate about Software Development & AI  <br>⚡ Building projects with Python & Web Technologies  <br>🤝 Open to collaborations and opportunities
 
 
 ## 🌐 Socials:
